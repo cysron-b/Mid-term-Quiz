@@ -1,4 +1,4 @@
-**Question 1**                                                                                                                                                                    100 pts
+**Question 1**                                                                                                                                                                   
 
 **Task Description:** Using any programming language you choose, Write a program that reads a list of integers from an input file. Generate an output file with a list of duplicate integers present in the input file.
 
@@ -46,7 +46,7 @@ Feel free to implement your code locally before putting the final implementation
 Happy Coding!!!
 
 
-**Question 2**                                                                                                                             https://docs.google.com/document/d/1Ioc7_hXmKmpIIbUrH1QedWVFZrH7rUn-a6DutIR3gOo/edit                                        100 pts
+**Question 2**                                                                                                                             https://docs.google.com/document/d/1NMlZxQjCG8KHv2Ra_ifJ9CoPFZhgABZN2qIb-92RGtk/edit?usp=sharing                                100 pts
 
 **Task Description:** 
 Using any programming you choose, write a program that implements the instructions below:
